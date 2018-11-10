@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "449352849476",
+    "firebase_url": "https://paltable-9f3a6.firebaseio.com",
+    "project_id": "paltable-9f3a6",
+    "storage_bucket": "paltable-9f3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449352849476:android:5bff91a09fd2f738",
+        "android_client_info": {
+          "package_name": "com.test1.avarokin.paltable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449352849476-dkeoo2nrhjljamqmk0rh0ub1dtkrkddo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwv47Asd8ZdB0C_TtjN3ur1t4rCox_1lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
