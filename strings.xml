@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ResHelp:MadHacks 2018</string>
+    <string-array name="resHalls">
+        <item> Cary Quadrangle </item>
+        <item> Earhart Hall </item>
+        <item> First Street Towers </item>
+        <item> Harrison Hall </item>
+        <item> Hawkins Hall </item>
+        <item> Hillenbrand Hall </item>
+        <item> Hilltop Apartments </item>
+        <item> Honors College and Residences </item>
+        <item> McCutcheon Hall </item>
+        <item> Meredith Hall </item>
+        <item> Owen Hall </item>
+        <item> Purdue Village </item>
+        <item> Shreve Hall </item>
+        <item> Tarkington Hall </item>
+        <item> Third Street Suites </item>
+        <item> Wiley Hall </item>
+        <item> Windsor Hall </item>
+        <item> UR Boiler Apartments </item>
+    </string-array>
+
+    <string-array name="majors">
+        <item> Actuarial Sciences </item>
+        <item> Aeronautical and Astronautical Engineering </item>
+        <item> Agricultural Sciences </item>
+        <item> Animation </item>
+        <item> Anthropology </item>
+        <item> Art History </item>
+        <item> Biochemistry </item>
+        <item> Biology </item>
+        <item> Biomedical Engineering </item>
+        <item> Chemistry </item>
+        <item> Civil Engineering </item>
+        <item> Computer and Information Technology </item>
+        <item> Computer Engineering </item>
+        <item> Computer Science </item>
+        <item> Construction Management </item>
+        <item> Creative Writing </item>
+        <item> Data Science </item>
+    </string-array>
+
+    <string-array name="classStanding">
+        <item> Freshman </item>
+        <item> Sophomore </item>
+        <item> Junior </item>
+        <item> Senior </item>
+        <item> Graduate </item>
+    </string-array>
+</resources>
